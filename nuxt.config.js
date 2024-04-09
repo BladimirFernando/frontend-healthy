@@ -42,7 +42,7 @@ export default {
   ],
 
   router: {
-    middelware: ['auth']
+    middleware: ['auth']
   },
 
   // Modules: https://go.nuxtjs.dev/config-modules
